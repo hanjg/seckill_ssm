@@ -2,6 +2,7 @@
 - 根据慕课网教程整合SSM框架编写秒杀系统，添加增删改和分页查询功能，并使用cdn、服务器缓存、存储过程进行高并发优化。
 - 视频地址：[http://www.imooc.com/course/programdetail/pid/59](http://www.imooc.com/course/programdetail/pid/59)
 - 源码地址：[https://github.com/hanjg/seckill_ssm](https://github.com/hanjg/seckill_ssm)
+- 博客地址：[http://blog.csdn.net/qq_40369829/article/details/79323270](http://blog.csdn.net/qq_40369829/article/details/79323270)
 
 ### 高并发优化 ###
 - 前端控制。如暴露秒杀接口时防止重复按键。
